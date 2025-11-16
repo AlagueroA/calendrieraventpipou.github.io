@@ -10,7 +10,7 @@ menu:
 - {name: 'Calendrier',          url: 'sample-posts'}
 - {name: 'Noël',                url: 'resources'}
 - {name: 'Faits intéressants',  url: 'facts'}
-- {name: 'Cité merveilleuse'    url: 'documentation'}
+- {name: 'Cité merveilleuse',   url: 'documentation'}
 - {name: 'Principe de ce site', url: 'about'}
 #- {name: 'Contact',            url: 'contact'}
 
