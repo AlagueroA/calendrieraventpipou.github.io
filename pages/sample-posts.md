@@ -1,6 +1,9 @@
 ---
 layout: category
-title: Sample Posts
-category: sample
+title: Calendrier de l'Avent
+category: calendrier
 permalink: /sample-posts
 ---
+
+
+[comment]: <Try to make this page look like a calendar>

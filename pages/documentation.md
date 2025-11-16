@@ -1,7 +1,6 @@
 ---
-layout: category
-title: Documentation
-category: documentation
+layout: page
+title: La Cité Merveilleuse
 permalink: /documentation
 ---
 
