@@ -15,6 +15,9 @@ Pas facile de soutenir le rythme pendant les vacances de Noël. Une visite à dr
 - 28 Noël en Lorraine (au moins un repas)
 
 
+![alt text](assests/img/trajets_2025.png "Les trajets pour Noël 2025")
+
+
 ##Noël en Ardèche
 
 La saison des fêtes commencera au pays des rivières et des vallons. Nous irons en Ardèche autour du 20 décembre. La date finale du trajet aller sera décidée à notre convenance. La date de la fête de Noël en Ardèche n'est pas encore totalement décidée. Tout porte à croire qu'elle se tiendra autour du 22 décembre. Ce qui est sûr, c'est que le vindenoixdeGuy sera forcément de la partie.
