@@ -25,8 +25,8 @@ social:
 
 # Customize site text
 pagination:
-  next_page: 'avancer dans le temps'
-  previous_page: 'reculer dans le temps'
+  next_page: 'Dates plus récentes'#'avancer dans le temps'
+  previous_page: 'Dates moins récentes'#'reculer dans le temps'
 
 sharing_button_prompt: 'Feel free to share!'
 
