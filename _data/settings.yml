@@ -28,7 +28,7 @@ pagination:
   next_page: 'Dates plus récentes'#'avancer dans le temps'
   previous_page: 'Dates moins récentes'#'reculer dans le temps'
 
-sharing_button_prompt: 'Feel free to share!'
+sharing_button_prompt: "C'est tout pour aujourd'hui !"
 
 related_posts: 'You may also enjoy...'
 
