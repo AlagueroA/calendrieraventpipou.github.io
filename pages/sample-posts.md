@@ -1,7 +1,7 @@
 ---
 layout: category
 title: Calendrier de l'Avent
-category: calendrier
+category: sample
 permalink: /sample-posts
 ---
 

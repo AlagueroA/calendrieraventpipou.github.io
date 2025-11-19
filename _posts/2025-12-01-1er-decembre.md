@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "1er Décembre"
-author: "Paul Le"
+author: "Pipou"
 categories: calendrier
-tags: [calendrier]
+tags: [sample]
 image: cuba-1.jpg
 ---
 
