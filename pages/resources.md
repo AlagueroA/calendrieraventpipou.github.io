@@ -15,7 +15,7 @@ Pas facile de soutenir le rythme pendant les vacances de Noël. Une visite à dr
 - 28 Noël en Lorraine (au moins un repas)
 
 
-![alt text](/assets/img/trajets_2025.png "Les trajets pour Noël 2025")
+![alt text](./assets/img/trajets_2025.png "Les trajets pour Noël 2025")
 
 
 ## Noël en Ardèche

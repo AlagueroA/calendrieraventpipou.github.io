@@ -4,7 +4,7 @@ title: La Cité Merveilleuse
 permalink: /documentation
 ---
 
-![alt text](assests/img/vueAudun.jpg "Vue sur Audun-le Roman")
+![alt text](./assests/img/vueAudun.jpg "Vue sur Audun-le Roman")
 
 #Audun-le-Roman
 Audun-le-Roman est une commune française située dans le département de Meurthe-et-Moselle en région Grand Est. Elle est située dans l'arrondissement de Briey et est le siège de la communauté de communes Coeur du Pays-Haut. La commune se référence avec le code postal 54560. Depuis 2020, le maire d'Audun-le-Roman est René Thiry. Les Audunois et Audunoises sont comptés au nombre de 2477 en 2022, ce qui représente une densité de 327 habitants au kilomètre. 
@@ -13,7 +13,7 @@ La commune est traversée par la ligne de partage des eaux entre les bassins ver
 
 
 
-![alt text](assests/img/blasonAudun.jpg "Blason d'Audun-le-Roman")
+![alt text](./assests/img/blasonAudun.jpg "Blason d'Audun-le-Roman")
 
 
 ##Urbanisme
@@ -21,7 +21,7 @@ Au 1er janvier 2024, Audun-le-Roman est catégorisée bourg rural, selon la nouv
 
 L'occupation des sols de la commune, telle qu'elle ressort de la base de données européenne d’occupation biophysique des sols Corine Land Cover (CLC), est marquée par l'importance des territoires agricoles (61,9 % en 2018), en diminution par rapport à 1990 (63 %). La répartition détaillée en 2018 est la suivante : terres arables (60,7 %), forêts (19,7 %), zones urbanisées (18,4 %), prairies (1,2 %). L'évolution de l’occupation des sols de la commune et de ses infrastructures peut être observée sur les différentes représentations cartographiques du territoire : la carte de Cassini (xviiie siècle), la carte d'état-major (1820-1866) et les cartes ou photos aériennes de l'IGN pour la période actuelle (1950 à aujourd'hui).
 
-![alt text](assests/img/carteAudun.jpg "Cartographie des infrastructures et occupation des sols à Audun-le-Roman")
+![alt text](./assests/img/carteAudun.jpg "Cartographie des infrastructures et occupation des sols à Audun-le-Roman")
 
 
 ##Typonimie
@@ -42,6 +42,4 @@ Audun-le-Roman a malheureusement été détruite par les bombardements allemands
 La magnifique église paroissiale Saint-Donat date de la 2e moitié du XVIIIe siècle. Elle a été reconstruite de 1866 à 1868, puis fut restaurée après la guerre 1914-1918. La fonte des cloches a été faite en 1751. La parvis de l'église a été restauré en 2010, et arbore désormais une magnifique couleur orange. Les mariages s'y font fréquents et y sont célébrés avec ferveur.
 Les souterrains d'Audun-le-Roman abritent un aqueduc romain enterré issu d'un captage à la petite Audun. Il passe sous la rue Lucien-Michel, alimente le gué et la fontaine sur la place de la mairie. Jusque dans les années 1950, une pompe dans l'étable de la ferme au 36 de la rue Lucien-Michel permettait d'abreuver les animaux. Cet aqueduc semble oublié par la plupart des habitants, mais il a joué un rôle majeur dans l'essor de la cité merveilleuse. 
 
-![alt text](assests/img/egliseAudun.jpg "L'église Saint-Donat d'Audun-le-Roman")
-
-https://fr.wikipedia.org/wiki/Audun-le-Roman
+![alt text](./assests/img/egliseAudun.jpg "L'église Saint-Donat d'Audun-le-Roman")
