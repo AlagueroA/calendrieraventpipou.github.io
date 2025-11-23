@@ -13,7 +13,7 @@ La commune est traversée par la ligne de partage des eaux entre les bassins ver
 
 
 
-![alt text](./assets/img/blasonAudun.jpg "Blason d'Audun-le-Roman")
+![alt text](./assets/img/blasonAudun.png "Blason d'Audun-le-Roman")
 
 
 ## Urbanisme
@@ -21,7 +21,7 @@ Au 1er janvier 2024, Audun-le-Roman est catégorisée bourg rural, selon la nouv
 
 L'occupation des sols de la commune, telle qu'elle ressort de la base de données européenne d’occupation biophysique des sols Corine Land Cover (CLC), est marquée par l'importance des territoires agricoles (61,9 % en 2018), en diminution par rapport à 1990 (63 %). La répartition détaillée en 2018 est la suivante : terres arables (60,7 %), forêts (19,7 %), zones urbanisées (18,4 %), prairies (1,2 %). L'évolution de l’occupation des sols de la commune et de ses infrastructures peut être observée sur les différentes représentations cartographiques du territoire : la carte de Cassini (xviiie siècle), la carte d'état-major (1820-1866) et les cartes ou photos aériennes de l'IGN pour la période actuelle (1950 à aujourd'hui).
 
-![alt text](./assets/img/carteAudun.jpg "Cartographie des infrastructures et occupation des sols à Audun-le-Roman")
+![alt text](./assets/img/carteAudun.png "Cartographie des infrastructures et occupation des sols à Audun-le-Roman")
 
 
 ## Typonimie
