@@ -18,5 +18,3 @@ author:                "Pipou"
 #feed:
 #  path: rss-feed.xml
 
-exclude:
-  - assets/solutions/
