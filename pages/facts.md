@@ -7,9 +7,9 @@ permalink: /facts
 Voici une liste non-exhaustive de faits à ressortir en toutes circonstances (appropriées biensûr) pour briller en société en buvant un petit matcha latte glacé :
 
 
-1. Les poulpes ont trois coeurs, et deux d’entre eux cessent de battre lorsqu’ils nagent.
-
-2. Cléopâtre vivait plus près de l’époque de l’atterrissage sur la Lune que de la construction des pyramides.
+1. Les poulpes ont trois coeurs, et deux d’entre eux cessent de battre lorsqu’ils nagent. [Source](https://fr.wikipedia.org/wiki/Pieuvre)
+{% comment %}
+2. Cléopâtre vivait plus près de l’époque de l’atterrissage sur la Lune que de la construction des pyramides. [Source](https://fr.wikipedia.org/wiki/Cléopâtre_VII)
 
 3. Les flamants roses sont roses à cause de leur alimentation, principalement des crevettes et du krill.
 
@@ -55,3 +55,4 @@ Voici une liste non-exhaustive de faits à ressortir en toutes circonstances (ap
 23. L’odeur du pop-corn chaud stimule le cerveau de la même manière qu’une petite récompense sucrée.
 
 24. Le Wi-Fi a été inventé à partir d’une technologie développée pour détecter des trous noirs dans l’espace.
+{% endcomment %}
