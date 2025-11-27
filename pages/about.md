@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Le calendrier
 permalink: /about
 ---
 
