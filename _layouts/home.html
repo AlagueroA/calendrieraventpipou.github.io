@@ -3,7 +3,9 @@ layout: default
 title: Home
 ---
 
-{% for post in paginator.posts %}
+{% assign chronological_posts = paginator.posts | reverse %}
+{% for post in chronological_posts %}
+<!--{% for post in paginator.posts %} -->
   {% include featured-post.html post=post %}
 {% endfor %}
 
