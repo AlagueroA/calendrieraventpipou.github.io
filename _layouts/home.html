@@ -5,7 +5,7 @@ title: Home
 
 {% assign chronological_posts = paginator.posts | reverse %}
 {% for post in chronological_posts %}
-  {% include featured-post.html post=post %} <!--{% for post in paginator.posts %} -->
+  {% include featured-post.html post=post %}
 {% endfor %}
 
 <!-- Pagination links -->
