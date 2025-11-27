@@ -7,7 +7,7 @@ layout: default
     {% assign chronological_posts = site.posts | reverse %}
     {% for post in chronological_posts %}
     <a href="{{ post.url | relative_url }}" class="case"
-       style="background-image: url('{{ post.image | relative_url }}')">
+       style="background-image: url('{{ site.github.url }}/assets/img/{{ post.image }}')">
       <span class="case-title">{{ post.title }}</span>
     </a>
   {% endfor %}
