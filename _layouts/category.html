@@ -4,7 +4,8 @@ layout: default
 
 
 <div id="calendar-grid" class="grid">
-  {% for post in site.posts %}
+    {% assign chronological_posts = site.posts | reverse %}
+    {% for post in chronological_posts %}
     <a href="{{ post.url | relative_url }}" class="case"
        style="background-image: url('{{ post.image | relative_url }}')">
       <span class="case-title">{{ post.title }}</span>

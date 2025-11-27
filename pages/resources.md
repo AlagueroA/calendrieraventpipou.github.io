@@ -9,10 +9,10 @@ Pas facile de soutenir le rythme pendant les vacances de Noël. Une visite à dr
 
 ## TL;DR
 
-- 22 Noël en Ardèche (peut-être)
-- 25 Noël dans le train
-- 26 Noël en Belgique
-- 28 Noël en Lorraine (au moins un repas)
+- 23/12 : Noël en Ardèche
+- 25/12 : Noël dans le train
+- 26/12 : Noël en Belgique
+- 28/12 : Noël en Lorraine
 
 
 ![alt text](./assets/img/trajets_2025.png "Les trajets pour Noël 2025")
