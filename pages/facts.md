@@ -8,9 +8,9 @@ Voici une liste non-exhaustive de faits à ressortir en toutes circonstances (ap
 
 
 1. Les poulpes ont trois coeurs, et deux d’entre eux cessent de battre lorsqu’ils nagent. [Source](https://fr.wikipedia.org/wiki/Pieuvre)
-{% comment %}
-2. Cléopâtre vivait plus près de l’époque de l’atterrissage sur la Lune que de la construction des pyramides. [Source](https://fr.wikipedia.org/wiki/Cléopâtre_VII)
 
+2. Cléopâtre vivait plus près de l’époque de l’atterrissage sur la Lune que de la construction des pyramides. [Source](https://fr.wikipedia.org/wiki/Cléopâtre_VII)
+{% comment %}
 3. Les flamants roses sont roses à cause de leur alimentation, principalement des crevettes et du krill. [Source](https://fr.wikipedia.org/wiki/Flamant_rose)
 
 4. Le premier e-mail a été envoyé en 1971 par Ray Tomlinson à lui-même, juste pour tester le système.
