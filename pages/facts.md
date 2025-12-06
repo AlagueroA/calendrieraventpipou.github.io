@@ -16,9 +16,9 @@ Voici une liste non-exhaustive de faits à ressortir en toutes circonstances (ap
 4. Le premier e-mail a été envoyé en 1971 par Ray Tomlinson à lui-même, juste pour tester le système. [Source](https://en.wikipedia.org/wiki/History_of_email#:~:text=with%20various%20features.-,Notable%20first%20uses%20of%20email,on%20the%20ARPANET%2C%20in%201971.)
 
 5. Les arbres peuvent “communiquer” entre eux via un réseau souterrain de champignons appelé le Wood Wide Web. [Source](https://en.wikipedia.org/wiki/Mycorrhizal_network)
-{% comment %}
-6. Napoléon n’était pas particulièrement petit : il mesurait environ 1,69 m, ce qui était la moyenne de l’époque.
 
+6. Napoléon n’était pas particulièrement petit : il mesurait environ 1,69 m, ce qui était la moyenne de l’époque. [Source](https://www.musee-armee.fr/fileadmin/user_upload/Documents/Support-Visite-Fiches-Objets/Fiches-periode-napoleon/MA_redingote-chapeau.pdf)
+{% comment %}
 7. Les escargots peuvent dormir pendant trois ans d’affilée.
 
 8. Plus de 90 % de l’argent imprimé dans le monde est sous forme électronique, pas papier.
