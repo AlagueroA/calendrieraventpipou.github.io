@@ -8,16 +8,15 @@ permalink: /7decanswers
 
 ![alt text](./assets/img/jeu7_1.jpg "Vue sur le gué d'Audun-le Roman")
 
-é
-# 2 - Le gué d'Audun-le-Roman
+# 2 - Les Halles de La Côte Saint-André
 
 ![alt text](./assets/img/jeu7_2.jpg "Les halles de LCSA")
 
 
-# 3 - Le gué d'Audun-le-Roman
+# 3 - Le gros sac
 
-![alt text](./assets/img/jeu7_3.jpg "Le premier gros sac")
+![alt text](./assets/img/jeu7_4.jpg "Le premier gros sac")
 
-# 4 - Le gué d'Audun-le-Roman
+# 4 - L'autre gros sac
 
-![alt text](./assets/img/jeu7_4.jpg "Le second gros sax")
+![alt text](./assets/img/jeu7_3.jpg "Le second gros sac")
