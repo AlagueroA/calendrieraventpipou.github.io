@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Réponse du 7 décembre
+title: Réponses du 7 décembre
 permalink: /7decanswers
 ---
 
