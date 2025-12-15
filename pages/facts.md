@@ -18,7 +18,7 @@ Voici une liste non-exhaustive de faits à ressortir en toutes circonstances (ap
 5. Les arbres peuvent “communiquer” entre eux via un réseau souterrain de champignons appelé le Wood Wide Web. [Source](https://en.wikipedia.org/wiki/Mycorrhizal_network)
 
 6. Napoléon n’était pas particulièrement petit : il mesurait environ 1,69 m, ce qui était la moyenne de l’époque. [Source](https://www.musee-armee.fr/fileadmin/user_upload/Documents/Support-Visite-Fiches-Objets/Fiches-periode-napoleon/MA_redingote-chapeau.pdf)
-{% comment %}
+
 7. Les escargots peuvent dormir pendant trois ans d’affilée.
 
 8. Plus de 90 % de l’argent imprimé dans le monde est sous forme électronique, pas papier.
@@ -34,7 +34,7 @@ Voici une liste non-exhaustive de faits à ressortir en toutes circonstances (ap
 13. Il existe un lac sous la glace de l’Antarctique qui ne gèle jamais, appelé Lake Vostok, isolé depuis 15 millions d’années.
 
 14. Le Titanic avait un double : un navire presque identique appelé l’Olympic.
-
+{% comment %}
 15. Les pingouins ont des genoux cachés sous leurs plumes, mais on ne les voit jamais marcher avec.
 
 16. Il y a plus d’atomes dans un verre d’eau que de verres d’eau dans tous les océans de la Terre.
