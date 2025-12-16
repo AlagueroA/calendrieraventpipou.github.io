@@ -19,21 +19,21 @@ Voici une liste non-exhaustive de faits à ressortir en toutes circonstances (ap
 
 6. Napoléon n’était pas particulièrement petit : il mesurait environ 1,69 m, ce qui était la moyenne de l’époque. [Source](https://www.musee-armee.fr/fileadmin/user_upload/Documents/Support-Visite-Fiches-Objets/Fiches-periode-napoleon/MA_redingote-chapeau.pdf)
 
-7. Les escargots peuvent dormir pendant trois ans d’affilée.
+7. Les escargots peuvent dormir pendant trois ans d’affilée. [Source](https://fr.wikipedia.org/wiki/Escargot#:~:text=L'hibernation%20d'un%20escargot,induisent%20les%20états%20d'inactivité.)
 
-8. Plus de 90 % de l’argent imprimé dans le monde est sous forme électronique, pas papier.
+8. Plus de 90 % de l’argent imprimé dans le monde est sous forme électronique, pas papier. [Source]
 
-9. Le coeur d’une baleine bleue est si grand qu’un humain pourrait nager dans ses artères.
+9. Le coeur d’une baleine bleue est si grand qu’un humain pourrait nager dans ses artères. [Source](https://fr.wikipedia.org/wiki/Baleine_bleue#:~:text=Son%20cœur%20pèse%20181%20kg,10%20000%20litres%20de%20sang.)
 
-10. Le mot “barbecue” vient d’un mot arawak “barbacoa”, utilisé dans les Caraïbes pour désigner un système de cuisson sur un grill en bois.
+10. Le mot “barbecue” vient d’un mot arawak “barbacoa”, utilisé dans les Caraïbes pour désigner un système de cuisson sur un grill en bois. [Source](https://fr.wikipedia.org/wiki/Barbecue)
 
-11. Les carottes n’étaient pas toujours orange : elles étaient violettes, rouges ou blanches avant d’être cultivées pour leur couleur patriotique aux Pays-Bas.
+11. Les carottes n’étaient pas toujours orange : elles étaient violettes, rouges ou blanches avant d’être cultivées pour leur couleur patriotique aux Pays-Bas. [Source](https://fr.wikipedia.org/wiki/Carotte)
 
-12. Les astronautes peuvent devenir plus grands de quelques centimètres en microgravité.
+12. Les astronautes peuvent devenir plus grands de quelques centimètres en microgravité. [Source]
 
-13. Il existe un lac sous la glace de l’Antarctique qui ne gèle jamais, appelé Lake Vostok, isolé depuis 15 millions d’années.
+13. Il existe un lac sous la glace de l’Antarctique qui ne gèle jamais, appelé Lake Vostok, isolé depuis 15 millions d’années. [Source](https://fr.wikipedia.org/wiki/Lac_Vostok)
 
-14. Le Titanic avait un double : un navire presque identique appelé l’Olympic.
+14. Le Titanic avait un double : un navire presque identique appelé l’Olympic. [Source](https://fr.wikipedia.org/wiki/Olympic_(paquebot)
 {% comment %}
 15. Les pingouins ont des genoux cachés sous leurs plumes, mais on ne les voit jamais marcher avec.
 
