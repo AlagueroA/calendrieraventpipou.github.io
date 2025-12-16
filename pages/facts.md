@@ -21,7 +21,7 @@ Voici une liste non-exhaustive de faits à ressortir en toutes circonstances (ap
 
 7. Les escargots peuvent dormir pendant trois ans d’affilée. [Source](https://fr.wikipedia.org/wiki/Escargot#:~:text=L'hibernation%20d'un%20escargot,induisent%20les%20états%20d'inactivité.)
 
-8. Plus de 90 % de l’argent imprimé dans le monde est sous forme électronique, pas papier. [Source]
+8. Plus de 90 % de l’argent imprimé dans le monde est sous forme électronique, pas papier. [Source](https://wlhcvrai)
 
 9. Le coeur d’une baleine bleue est si grand qu’un humain pourrait nager dans ses artères. [Source](https://fr.wikipedia.org/wiki/Baleine_bleue#:~:text=Son%20cœur%20pèse%20181%20kg,10%20000%20litres%20de%20sang.)
 
@@ -29,14 +29,14 @@ Voici une liste non-exhaustive de faits à ressortir en toutes circonstances (ap
 
 11. Les carottes n’étaient pas toujours orange : elles étaient violettes, rouges ou blanches avant d’être cultivées pour leur couleur patriotique aux Pays-Bas. [Source](https://fr.wikipedia.org/wiki/Carotte)
 
-12. Les astronautes peuvent devenir plus grands de quelques centimètres en microgravité. [Source]
+12. Les astronautes peuvent devenir plus grands de quelques centimètres en microgravité. [Source](https://wlhcvrai)
 
 13. Il existe un lac sous la glace de l’Antarctique qui ne gèle jamais, appelé Lake Vostok, isolé depuis 15 millions d’années. [Source](https://fr.wikipedia.org/wiki/Lac_Vostok)
 
 14. Le Titanic avait un double : un navire presque identique appelé l’Olympic. [Source](https://fr.wikipedia.org/wiki/Olympic_(paquebot)
-{% comment %}
-15. Les pingouins ont des genoux cachés sous leurs plumes, mais on ne les voit jamais marcher avec.
 
+15. Les pingouins ont des genoux cachés sous leurs plumes, mais on ne les voit jamais marcher avec. [Source](https://www.geo.fr/animaux/les-pingouins-ont-ils-des-genoux-205599)
+{% comment %}
 16. Il y a plus d’atomes dans un verre d’eau que de verres d’eau dans tous les océans de la Terre.
 
 17. Les étoiles de mer n’ont pas de cerveau, mais elles peuvent ouvrir des huîtres en utilisant leur force hydraulique.
