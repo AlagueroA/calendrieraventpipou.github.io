@@ -48,5 +48,5 @@ permalink: /17decanswers
     }, 8000);
   }
 
-  setInterval(createHeart, 300);
+  setInterval(createHeart, 50);
 </script>
