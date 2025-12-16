@@ -33,7 +33,7 @@ Voici une liste non-exhaustive de faits à ressortir en toutes circonstances (ap
 
 13. Il existe un lac sous la glace de l’Antarctique qui ne gèle jamais, appelé Lake Vostok, isolé depuis 15 millions d’années. [Source](https://fr.wikipedia.org/wiki/Lac_Vostok)
 
-14. Le Titanic avait un double : un navire presque identique appelé l’Olympic. [Source](https://fr.wikipedia.org/wiki/Olympic_(paquebot)
+14. Le Titanic avait un double : un navire presque identique appelé l’Olympic. [Source](https://fr.wikipedia.org/wiki/Olympic_paquebot)
 
 15. Les pingouins ont des genoux cachés sous leurs plumes, mais on ne les voit jamais marcher avec. [Source](https://www.geo.fr/animaux/les-pingouins-ont-ils-des-genoux-205599)
 {% comment %}
