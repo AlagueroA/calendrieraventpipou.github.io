@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Avalanche de coeurs
+title: Roulette du restaurant
 permalink: /wheelrestaurant
 ---
 
 <div style="
-  max-width: 420px;
+  max-width: 650px;
   margin: 40px auto;
   padding: 25px;
   border-radius: 20px;
@@ -19,7 +19,7 @@ permalink: /wheelrestaurant
     Que mangera-t-on ce soir ?
   </div>
 
-  <canvas id="wheel" width="800" height="800"
+  <canvas id="wheel" width="600" height="600"
           style="display:block; margin:0 auto;"></canvas>
 
   <button id="spinBtn"
