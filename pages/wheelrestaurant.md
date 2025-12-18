@@ -137,9 +137,6 @@ permalink: /wheelrestaurant
         const index =
           options.length -
           Math.floor((angle % (2 * Math.PI)) / slice) - 1;
-
-        document.getElementById("result").textContent =
-          "Résultat: " + options[index];
       }
     }
 
