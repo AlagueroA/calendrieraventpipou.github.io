@@ -5,7 +5,7 @@ permalink: /wheelrestaurant
 ---
 
 <div style="
-  max-width: 650px;
+  max-width: 420px;
   margin: 40px auto;
   padding: 25px;
   border-radius: 20px;
@@ -19,7 +19,7 @@ permalink: /wheelrestaurant
     Que mangera-t-on ce soir ?
   </div>
 
-  <canvas id="wheel" width="600" height="600"
+  <canvas id="wheel" width="300" height="300"
           style="display:block; margin:0 auto;"></canvas>
 
   <button id="spinBtn"
