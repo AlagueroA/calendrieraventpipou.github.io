@@ -16,10 +16,10 @@ permalink: /wheelrestaurant
 ">
 
   <div style="font-size:24px; font-weight:700; margin-bottom:10px;">
-    🎡 Decision Wheel
+    Que mangera-t-on ce soir ?
   </div>
 
-  <canvas id="wheel" width="300" height="300"
+  <canvas id="wheel" width="800" height="800"
           style="display:block; margin:0 auto;"></canvas>
 
   <button id="spinBtn"
@@ -50,12 +50,13 @@ permalink: /wheelrestaurant
 <script>
 (() => {
   const options = [
-    "Go for a walk 🚶",
-    "Read a book 📖",
-    "Watch a movie 🎬",
-    "Cook something 🍳",
-    "Take a nap 😴",
-    "Learn something new 🧠"
+    "Sushi",
+    "Pizza",
+    "Burger",
+    "Kebab",
+    "Indien",
+    "Thaï",
+    "Poké Bowl"
   ];
 
   const canvas = document.getElementById("wheel");
@@ -138,7 +139,7 @@ permalink: /wheelrestaurant
           Math.floor((angle % (2 * Math.PI)) / slice) - 1;
 
         document.getElementById("result").textContent =
-          "✅ Result: " + options[index];
+          "Résultat: " + options[index];
       }
     }
 
